@@ -1,4 +1,5 @@
 Pemrograman Berbasis Platform
 - Konsisten untuk membuat tugas
 - Membuat platform untuk pengelolaan selama kuliah
-- Membut forum diskusi
+- Membuat forum diskusi
+- Kolaborasi dengan lebih banyak orang

@@ -3,3 +3,4 @@ Pemrograman Berbasis Platform
 - Membuat platform untuk pengelolaan selama kuliah
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak orang
+- Belajar memahami dan mempraktekan apa yang dibuat
